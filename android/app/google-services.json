@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256236669376",
+    "project_id": "soscaasitech",
+    "storage_bucket": "soscaasitech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256236669376:android:150a6960001ccf276e6025",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256236669376-cta7nk00rlgv7saf0us3un5ch93084o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qMeW5nbauSn-UDrqZibC8yZ-d6xPoZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256236669376-cta7nk00rlgv7saf0us3un5ch93084o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
